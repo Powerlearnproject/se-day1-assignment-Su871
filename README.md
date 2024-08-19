@@ -12,14 +12,14 @@ Identify and describe at least three key milestones in the evolution of software
 
 -1968: The first nato software engineering conference is held.
 -1970s: A number of new methologies are developed, including structured programing and object-oriented programing.
--1980s:  The first computer-aided software engineering (CASE) tools are realesed.
+-1980s: The first computer-aided software engineering (CASE) tools are realesed.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
 -Requirement: Gathering and documenting user needs and system requiremennts.
 -Disgn: Creating high-level and detailed designed of the software architecture and user interface.
--implemention: Writing code and building the software according to the design specification.
--testing: Concducting various tests to ensure the software meets quality standards and functional requirements.
+-implementation: Writing code and building the software according to the design specification.
+-testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
 -Deployment: Releasing the software to user or custmers.
 -maintenance: Providing ongoing support, updates, and enhancements to the software afterware after deployment.
 
